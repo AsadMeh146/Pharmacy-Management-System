@@ -1,0 +1,560 @@
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Guna.UI2.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\DB_Project\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Guna.UI2.dll
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Users\Home\Documents\GitHub\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Attendance.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+C:\Users\Home\Documents\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Attendance.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Guna.UI2.dll
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Attendance.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+G:\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+D:\Computer Science Data\Forth Semester\Data Bases Lab\Final Term Project\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Guna.UI2.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Admin.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Admin_Dashboard.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Head_Dashboard.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.New_Attendance.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Order.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Return.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReceiveOrder.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+C:\Users\Home\Desktop\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.employeePage.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Admin.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Admin_Dashboard.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.employeePage.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Head_Dashboard.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.New_Attendance.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReceiveOrder.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Order.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Return.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Users\Online computer\Desktop\images\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Admin.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Admin_Dashboard.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.employeePage.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Head_Dashboard.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.New_Attendance.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReceiveOrder.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Order.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Return.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Users\Home\Downloads\KashirProject - Copy\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.Shared.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\ShockwaveFlashObjects.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\stdole.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Admin.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Admin_Dashboard.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.atten_report.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.employeePage.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.expiry_report.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Head_Dashboard.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.New_Attendance.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReceiveOrder.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.reportS_Displayer.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.salesReportodMonthForm.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.sale_repport_of_day_form.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Form.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Order.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Return.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+E:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Employees.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\stdole.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Admin.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Admin_Dashboard.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.atten_report.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.employeePage.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.expiry_report.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Head_Dashboard.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.New_Attendance.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReceiveOrder.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.reportS_Displayer.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.salesReportodMonthForm.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.sale_repport_of_day_form.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Form.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Order.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Return.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Employees.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\attendance_Report2.rpt
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\expired_Report.rpt
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_Day.rpt
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_month.rpt
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Stock_Report.rpt
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\expired_Report.cs
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_Day.cs
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_month.cs
+C:\Users\Home\Desktop\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Stock_Report.cs
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.pdb
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\attendance_Report2.rpt
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\expired_Report.rpt
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_Day.rpt
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_month.rpt
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Stock_Report.rpt
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\expired_Report.cs
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_Day.cs
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\sales_Report_of_month.cs
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Stock_Report.cs
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe.config
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.exe
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Final_DB_Project.pdb
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.Shared.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\ShockwaveFlashObjects.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\stdole.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.AssemblyReference.cache
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Admin.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Date.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Employee.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Manufacturer.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Pharmacy.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Products.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Add_Shipper.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Admin_Dashboard.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.atten_report.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.CustomerOrder.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Dashboard.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.employeePage.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Employee_Loan.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.expiry_report.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Form2.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.headPage.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Head_Dashboard.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Home.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Loan_Request.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.mainPage.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.New_Attendance.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Properties.Resources.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReceiveOrder.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.reportS_Displayer.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.ReturmCustomerOrder.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.salesReportodMonthForm.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.sale_repport_of_day_form.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Form.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Order.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Stock_Return.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Attendance.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Date.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.Update_Pharmacy.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Employees.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Employee.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Manufacturer.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Products.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.View_Update_Suppliers.resources
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.GenerateResource.cache
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.exe.licenses
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CoreCompileInputs.cache
+C:\Asad's Data\University Work\4th Semester\Database System (Lab)\Projects\Final Project\Project-GID-02\dbfinalgid-2\Final_DB_Project\Final_DB_Project\obj\Debug\Final_DB_Project.csproj.CopyComplete

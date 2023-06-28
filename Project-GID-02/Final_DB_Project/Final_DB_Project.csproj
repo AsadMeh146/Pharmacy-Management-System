@@ -1,0 +1,523 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3C79C43-50A2-4B81-900C-FD53C373710C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Final_DB_Project</RootNamespace>
+    <AssemblyName>Final_DB_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxShockwaveFlashObjects, Version=1.0.0.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Bunifu.Licensing, Version=3.2.0.0, Culture=neutral, PublicKeyToken=f89b4760ba7dcb6b" />
+    <Reference Include="Bunifu.UI.WinForms.BunifuButton">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuCheckBox">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuCheckBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuLabel">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuLabel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPages">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPages.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPanel">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuPictureBox">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuPictureBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuShadowPanel">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuShadowPanel.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu.UI.WinForms.BunifuSlider">
+      <HintPath>..\Packages\Bunifu\BunifuCrack-main\Bunifu.UI.WinForms.BunifuSlider.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Guna.UI2">
+      <HintPath>..\Packages\Guna\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Add_Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Admin.designer.cs">
+      <DependentUpon>Add_Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Date.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Date.designer.cs">
+      <DependentUpon>Add_Date.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Employee.designer.cs">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Manufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Manufacturer.Designer.cs">
+      <DependentUpon>Add_Manufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Pharmacy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Pharmacy.Designer.cs">
+      <DependentUpon>Add_Pharmacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Products.Designer.cs">
+      <DependentUpon>Add_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Add_Shipper.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Add_Shipper.Designer.cs">
+      <DependentUpon>Add_Shipper.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin_Dashboard.designer.cs">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="attendance_Report2.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>attendance_Report2.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="atten_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="atten_report.Designer.cs">
+      <DependentUpon>atten_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuration.cs" />
+    <Compile Include="CustomerOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerOrder.Designer.cs">
+      <DependentUpon>CustomerOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard.Designer.cs">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="employeePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="employeePage.designer.cs">
+      <DependentUpon>employeePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee_Loan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee_Loan.Designer.cs">
+      <DependentUpon>Employee_Loan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="expired_Report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>expired_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="expiry_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="expiry_report.Designer.cs">
+      <DependentUpon>expiry_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="headPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="headPage.designer.cs">
+      <DependentUpon>headPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Head_Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Head_Dashboard.designer.cs">
+      <DependentUpon>Head_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Loan_Request.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Loan_Request.Designer.cs">
+      <DependentUpon>Loan_Request.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mainPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mainPage.designer.cs">
+      <DependentUpon>mainPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="New_Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="New_Attendance.Designer.cs">
+      <DependentUpon>New_Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReceiveOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReceiveOrder.Designer.cs">
+      <DependentUpon>ReceiveOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="reportS_Displayer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportS_Displayer.Designer.cs">
+      <DependentUpon>reportS_Displayer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReturmCustomerOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReturmCustomerOrder.Designer.cs">
+      <DependentUpon>ReturmCustomerOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesReportodMonthForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesReportodMonthForm.Designer.cs">
+      <DependentUpon>salesReportodMonthForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sales_Report_of_Day.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sales_Report_of_Day.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="sales_Report_of_month.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>sales_Report_of_month.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="sale_repport_of_day_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sale_repport_of_day_form.Designer.cs">
+      <DependentUpon>sale_repport_of_day_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Form.Designer.cs">
+      <DependentUpon>Stock_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Order.Designer.cs">
+      <DependentUpon>Stock_Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Stock_Report.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Stock_Report.rpt</DependentUpon>
+      <SubType>Component</SubType>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Stock_Return.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stock_Return.Designer.cs">
+      <DependentUpon>Stock_Return.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Attendance.designer.cs">
+      <DependentUpon>Update_Attendance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Date.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Date.designer.cs">
+      <DependentUpon>Update_Date.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Update_Pharmacy.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Update_Pharmacy.Designer.cs">
+      <DependentUpon>Update_Pharmacy.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Employees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Employees.Designer.cs">
+      <DependentUpon>View_Employees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Update_Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Update_Employee.designer.cs">
+      <DependentUpon>View_Update_Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Update_Manufacturer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Update_Manufacturer.Designer.cs">
+      <DependentUpon>View_Update_Manufacturer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Update_Products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Update_Products.Designer.cs">
+      <DependentUpon>View_Update_Products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View_Update_Suppliers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View_Update_Suppliers.Designer.cs">
+      <DependentUpon>View_Update_Suppliers.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Add_Admin.resx">
+      <DependentUpon>Add_Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Date.resx">
+      <DependentUpon>Add_Date.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Employee.resx">
+      <DependentUpon>Add_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Manufacturer.resx">
+      <DependentUpon>Add_Manufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Pharmacy.resx">
+      <DependentUpon>Add_Pharmacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Products.resx">
+      <DependentUpon>Add_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Add_Shipper.resx">
+      <DependentUpon>Add_Shipper.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Dashboard.resx">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="attendance_Report2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>attendance_Report2.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="atten_report.resx">
+      <DependentUpon>atten_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerOrder.resx">
+      <DependentUpon>CustomerOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard.resx">
+      <DependentUpon>Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="employeePage.resx">
+      <DependentUpon>employeePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee_Loan.resx">
+      <DependentUpon>Employee_Loan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expired_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>expired_Report.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="expiry_report.resx">
+      <DependentUpon>expiry_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="headPage.resx">
+      <DependentUpon>headPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Head_Dashboard.resx">
+      <DependentUpon>Head_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Loan_Request.resx">
+      <DependentUpon>Loan_Request.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mainPage.resx">
+      <DependentUpon>mainPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="New_Attendance.resx">
+      <DependentUpon>New_Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ReceiveOrder.resx">
+      <DependentUpon>ReceiveOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportS_Displayer.resx">
+      <DependentUpon>reportS_Displayer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReturmCustomerOrder.resx">
+      <DependentUpon>ReturmCustomerOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesReportodMonthForm.resx">
+      <DependentUpon>salesReportodMonthForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sales_Report_of_Day.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sales_Report_of_Day.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sales_Report_of_month.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>sales_Report_of_month.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sale_repport_of_day_form.resx">
+      <DependentUpon>sale_repport_of_day_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Form.resx">
+      <DependentUpon>Stock_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Order.resx">
+      <DependentUpon>Stock_Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Report.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Stock_Report.cs</LastGenOutput>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stock_Return.resx">
+      <DependentUpon>Stock_Return.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Attendance.resx">
+      <DependentUpon>Update_Attendance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Date.resx">
+      <DependentUpon>Update_Date.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Update_Pharmacy.resx">
+      <DependentUpon>Update_Pharmacy.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Employees.resx">
+      <DependentUpon>View_Employees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Update_Employee.resx">
+      <DependentUpon>View_Update_Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Update_Manufacturer.resx">
+      <DependentUpon>View_Update_Manufacturer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Update_Products.resx">
+      <DependentUpon>View_Update_Products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View_Update_Suppliers.resx">
+      <DependentUpon>View_Update_Suppliers.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usernameLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backgroundPic5.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>if exist "$(TargetPath).locked" del "$(TargetPath).locked"
+   if not exist "$(TargetPath).locked" move "$(TargetPath)" "$(TargetPath).locked"</PreBuildEvent>
+  </PropertyGroup>
+</Project>
